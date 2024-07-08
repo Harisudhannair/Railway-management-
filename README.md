@@ -1,1 +1,1 @@
-# Railway-management-
+# Railway-management-project using crud operations. In this project there are two portal. Admin and user portal. In the admin portal the admin can check the user login details and admin can mointor their activities. In the user portal the user can book the ticket,check ticket fair,check available trains,check their own booking details and user can also able to cancel their tickets.
